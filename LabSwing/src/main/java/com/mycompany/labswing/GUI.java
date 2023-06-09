@@ -22,7 +22,7 @@ public class GUI extends javax.swing.JFrame {
         deshBoardPane.setVisible(false);
         
         users=new LinkedList<User>();
-        users.add(new User("fahim","1234","Mahady"));
+        users.add(new User("naim","1234","Naim"));
         users.add(new User("mahady","1234","Fahim"));
         users.add(new User("hasan","1234","Hasan"));
     }
